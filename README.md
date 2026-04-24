@@ -1,6 +1,6 @@
 # paperleaf
 
-small c program for a raspberry pi e-reader vibe. not a real os from scratch — it runs on normal linux (raspberry pi os is fine) and uses the text console + ncurses so you get menus without needing a full desktop.
+small c program for a raspberry pi e-reader vibe. not a real os from scratch: it runs on normal linux (raspberry pi os is fine) and uses the text console + ncurses so you get menus without needing a full desktop.
 
 ## what it does
 
@@ -54,3 +54,6 @@ makefile comment mentions something like `make CC=arm-linux-gnueabihf-gcc` if yo
 ## limits
 
 max 256 pdfs in one folder, names truncated internally to something reasonable. if something breaks the viewer fork the app should come back when the child exits.
+
+## to-do:
+- add true OS functionality sans linux.
