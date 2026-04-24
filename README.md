@@ -1,6 +1,6 @@
 # paperleaf
 
-small c program for a raspberry pi e-reader vibe. not a real os from scratch: it runs on normal linux (raspberry pi os is fine) and uses the text console + ncurses so you get menus without needing a full desktop.
+small c program for a raspberry pi-based e-reader ecosystem. not a real os from scratch: it runs on normal linux (raspberry pi os is fine) and uses the text console + ncurses so you get menus without needing a full desktop.
 
 ## what it does
 
