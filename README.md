@@ -57,3 +57,4 @@ max 256 pdfs in one folder, names truncated internally to something reasonable. 
 
 ## to-do:
 - add true OS functionality sans linux.
+- add dark mode 
